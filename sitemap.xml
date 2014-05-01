@@ -5,87 +5,63 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://pyugrm.de/2014/index.html</loc>
-  <lastmod>2014-04-29</lastmod>
+  <loc>http://pyugrm.de/</loc>
+  <lastmod>2014-05-01</lastmod>
+ </url>
+ <url>
+  <loc>http://pyugrm.de/2014/</loc>
+  <lastmod>2014-05-01</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/archive.html</loc>
-  <lastmod>2014-04-29</lastmod>
+  <lastmod>2014-05-01</lastmod>
  </url>
  <url>
-  <loc>http://pyugrm.de/categories/index.html</loc>
-  <lastmod>2014-04-29</lastmod>
+  <loc>http://pyugrm.de/categories/</loc>
+  <lastmod>2014-05-01</lastmod>
  </url>
  <url>
-  <loc>http://pyugrm.de/galleries/index.html</loc>
-  <lastmod>2014-04-29</lastmod>
+  <loc>http://pyugrm.de/galleries/</loc>
+  <lastmod>2014-05-01</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/galleries/rss.xml</loc>
-  <lastmod>2014-04-29</lastmod>
+  <lastmod>2014-05-01</lastmod>
  </url>
  <url>
-  <loc>http://pyugrm.de/index.html</loc>
-  <lastmod>2014-04-29</lastmod>
+  <loc>http://pyugrm.de/listings/</loc>
+  <lastmod>2014-05-01</lastmod>
  </url>
  <url>
-  <loc>http://pyugrm.de/listings/index.html</loc>
-  <lastmod>2014-04-29</lastmod>
+  <loc>http://pyugrm.de/posts/das-war-das-12-treffen-der-pyugrm/</loc>
+  <lastmod>2014-05-01</lastmod>
  </url>
  <url>
-  <loc>http://pyugrm.de/output/archive.html</loc>
-  <lastmod>2014-04-29</lastmod>
- </url>
- <url>
-  <loc>http://pyugrm.de/output/categories/index.html</loc>
-  <lastmod>2014-04-29</lastmod>
- </url>
- <url>
-  <loc>http://pyugrm.de/output/galleries/index.html</loc>
-  <lastmod>2014-04-29</lastmod>
- </url>
- <url>
-  <loc>http://pyugrm.de/output/galleries/rss.xml</loc>
-  <lastmod>2014-04-29</lastmod>
- </url>
- <url>
-  <loc>http://pyugrm.de/output/index.html</loc>
-  <lastmod>2014-04-29</lastmod>
- </url>
- <url>
-  <loc>http://pyugrm.de/output/listings/index.html</loc>
-  <lastmod>2014-04-29</lastmod>
- </url>
- <url>
-  <loc>http://pyugrm.de/output/listings/index.html.html</loc>
-  <lastmod>2014-04-29</lastmod>
- </url>
- <url>
-  <loc>http://pyugrm.de/output/rss.xml</loc>
-  <lastmod>2014-04-29</lastmod>
- </url>
- <url>
-  <loc>http://pyugrm.de/posts/das-war-das-10-treffen-der-pyugrm.html</loc>
-  <lastmod>2014-04-29</lastmod>
+  <loc>http://pyugrm.de/posts/pyugrmde-ist-live/</loc>
+  <lastmod>2014-05-01</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/rss.xml</loc>
-  <lastmod>2014-04-29</lastmod>
+  <lastmod>2014-05-01</lastmod>
  </url>
  <url>
-  <loc>http://pyugrm.de/stories/community.html</loc>
-  <lastmod>2014-04-29</lastmod>
+  <loc>http://pyugrm.de/stories/impressum/</loc>
+  <lastmod>2014-05-01</lastmod>
  </url>
  <url>
-  <loc>http://pyugrm.de/stories/impressum.html</loc>
-  <lastmod>2014-04-29</lastmod>
+  <loc>http://pyugrm.de/stories/infos-zur-python-community-in-rhein-main/</loc>
+  <lastmod>2014-05-01</lastmod>
  </url>
  <url>
-  <loc>http://pyugrm.de/stories/termine.html</loc>
-  <lastmod>2014-04-29</lastmod>
+  <loc>http://pyugrm.de/stories/kommunikation/</loc>
+  <lastmod>2014-05-01</lastmod>
  </url>
  <url>
-  <loc>http://pyugrm.de/stories/uber-die-python-usergroup-rhein-main-pyugrm.html</loc>
-  <lastmod>2014-04-29</lastmod>
+  <loc>http://pyugrm.de/stories/termine-der-python-user-group-rhein-main/</loc>
+  <lastmod>2014-05-01</lastmod>
+ </url>
+ <url>
+  <loc>http://pyugrm.de/stories/uber-die-python-usergroup-rhein-main-pyugrm/</loc>
+  <lastmod>2014-05-01</lastmod>
  </url>
 </urlset>
