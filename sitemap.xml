@@ -14,7 +14,7 @@
  </url>
  <url>
   <loc>http://pyugrm.de/archive.html</loc>
-  <lastmod>2014-05-05</lastmod>
+  <lastmod>2014-05-16</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/categories/</loc>
@@ -22,10 +22,6 @@
  </url>
  <url>
   <loc>http://pyugrm.de/galleries/</loc>
-  <lastmod>2014-05-05</lastmod>
- </url>
- <url>
-  <loc>http://pyugrm.de/galleries/rss.xml</loc>
   <lastmod>2014-05-05</lastmod>
  </url>
  <url>
@@ -49,11 +45,11 @@
   <lastmod>2014-05-05</lastmod>
  </url>
  <url>
-  <loc>http://pyugrm.de/posts/pyugrmde-ist-live/</loc>
-  <lastmod>2014-05-05</lastmod>
+  <loc>http://pyugrm.de/posts/pyugrm-treffen-im-mai-2014/</loc>
+  <lastmod>2014-05-14</lastmod>
  </url>
  <url>
-  <loc>http://pyugrm.de/rss.xml</loc>
+  <loc>http://pyugrm.de/posts/pyugrmde-ist-live/</loc>
   <lastmod>2014-05-05</lastmod>
  </url>
  <url>
@@ -67,6 +63,10 @@
  <url>
   <loc>http://pyugrm.de/stories/kommunikation/</loc>
   <lastmod>2014-05-05</lastmod>
+ </url>
+ <url>
+  <loc>http://pyugrm.de/stories/links-rund-um-python-programmierung/</loc>
+  <lastmod>2014-05-14</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/stories/termine-der-python-user-group-rhein-main/</loc>
