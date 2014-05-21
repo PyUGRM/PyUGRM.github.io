@@ -6540,3 +6540,7 @@ h4, h5, h6 {
 .row {
     margin: 0;
 }
+
+div.section>p {
+    text-align: justify;
+}
