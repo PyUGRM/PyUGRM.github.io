@@ -1,37 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Python UG Rhein-Main</title><link>http://pyugrm.de/</link><description>Die Webseite der Python UserGroup Rhein-Main</description><language>de</language><lastBuildDate>Wed, 21 May 2014 22:57:00 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Python Stammtisch Darmstadt trifft sich wieder</title><link>http://pyugrm.de/posts/python-stammtisch-darmstadt-trifft-sich-wieder-2/</link><dc:creator>PyUGRM Orga Team</dc:creator><description>&lt;p&gt;Am 21. Mai um 19:30 Uhr geht es los.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Alle Infos gibt es hier: &lt;a href="http://pystada.github.io/"&gt;http://pystada.github.io/&lt;/a&gt;  &lt;/li&gt;
-&lt;li&gt;Das Pad zur Planung ist zu finden unter &lt;a href="https://etherpad.mozilla.org/pystada-2014-05-21"&gt;https://etherpad.mozilla.org/pystada-2014-05-21&lt;/a&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Adresse:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Trollhöhle des Chaos-Darmstadt
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Python UG Rhein-Main</title><link>http://pyugrm.de/</link><description>Die Webseite der Python UserGroup Rhein-Main</description><language>de</language><lastBuildDate>Thu, 10 Jul 2014 17:53:23 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>PyUGRM Treffen im Juli 2014</title><link>http://pyugrm.de/posts/pyugrm-treffen-im-juli-2014/</link><dc:creator>PyUGRM Orga Team</dc:creator><description>&lt;p&gt;Am kom­men­den Mitt­woch ist es wie­der so­weit, ein neu­es Tref­fen der PyU­GRM steht an!&lt;/p&gt; 
+ &lt;p&gt;Am 16. Ju­li um 19:30 Uhr geht es los. Al­le De­tails in­kl.  &lt;a href="http://pyugrm.de/stories/termine-der-python-user-group-rhein-main/#juli-2014"&gt;Adres­se und An­fahrt­be­schrei­bung&lt;/a&gt;  
+fin­det ihr un­ter  &lt;a href="http://pyugrm.de/stories/termine-der-python-user-group-rhein-main/"&gt;Ter­mi­ne&lt;/a&gt;.&lt;/p&gt;</description><guid>http://pyugrm.de/posts/pyugrm-treffen-im-juli-2014/</guid><pubDate>Thu, 10 Jul 2014 13:00:00 GMT</pubDate></item><item><title>Python Stammtisch Darmstadt trifft sich wieder</title><link>http://pyugrm.de/posts/python-stammtisch-darmstadt-trifft-sich-wieder-2/</link><dc:creator>PyUGRM Orga Team</dc:creator><description>&lt;p&gt;Am 21. Mai um 19:30 Uhr geht es los.&lt;/p&gt; 
+ &lt;ul&gt;
+&lt;li&gt;Al­le In­fos gibt es hier:  &lt;a href="http://pystada.github.io/"&gt;htt­p://­py­sta­da.­github.io/&lt;/a&gt;    &lt;/li&gt; 
+ &lt;li&gt;Das Pad zur Pla­nung ist zu fin­den un­ter  &lt;a href="https://etherpad.mozilla.org/pystada-2014-05-21"&gt;htt­ps://ether­pa­d.­mo­zil­la.or­g/­py­sta­da-2014-05-21&lt;/a&gt;    &lt;/li&gt; 
+ &lt;/ul&gt;
+&lt;p&gt;Adres­se:&lt;/p&gt; 
+ &lt;pre&gt;&lt;code&gt;Trollhöhle des Chaos-Darmstadt
 Wilhelm-Leuschner-Straße 36 (im Hinterhof)
 64293 Darmstadt
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Neben Unicode in Python 3 und den Top 10 Fehlern beim Programmieren in Python,
-gibt es auch einen Überblick über &lt;a href="http://getnikola.com"&gt;Nikola&lt;/a&gt; und wie damit statische Webseiten
-erzeugt werden und anschließend via Github Pages unter einer eigenen Domain
-ausgeliefert werden können.&lt;/p&gt;
-&lt;p&gt;Das ist besonders interessant für alle, die ohnehin mit Github arbeiten oder
-Projekte betreuen, die gerne eine eigene Webseite haben möchten, aber die
-Pflege eines CMS + Datenbank und Webserver scheuen.&lt;/p&gt;</description><guid>http://pyugrm.de/posts/python-stammtisch-darmstadt-trifft-sich-wieder-2/</guid><pubDate>Wed, 21 May 2014 06:18:49 GMT</pubDate></item><item><title>PyUGRM Treffen im Mai 2014</title><link>http://pyugrm.de/posts/pyugrm-treffen-im-mai-2014/</link><dc:creator>PyUGRM Orga Team</dc:creator><description>&lt;p&gt;Es ist bald wieder soweit, ein neuer PyUGRM steht an!&lt;br&gt;
-Am 15. Mai um 19:30 Uhr geht es los.&lt;br&gt;
-Alle Details inkl. &lt;a href="http://pyugrm.de/stories/termine-der-python-user-group-rhein-main/#mai-2014"&gt;Adresse und Anfahrtbeschreibung&lt;/a&gt; findet ihr unter &lt;a href="http://pyugrm.de/stories/termine-der-python-user-group-rhein-main/"&gt;Termine&lt;/a&gt;.&lt;/p&gt;</description><guid>http://pyugrm.de/posts/pyugrm-treffen-im-mai-2014/</guid><pubDate>Tue, 13 May 2014 19:18:49 GMT</pubDate></item><item><title>Python Stammtisch Darmstadt trifft sich wieder</title><link>http://pyugrm.de/posts/python-stammtisch-darmstadt-trifft-sich-wieder-1/</link><dc:creator>PyUGRM Orga Team</dc:creator><description>&lt;p&gt;Am 7. Mai um 19:30 Uhr geht es los.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Alle Infos gibt es hier: &lt;a href="http://pystada.github.io/"&gt;http://pystada.github.io/&lt;/a&gt;  &lt;/li&gt;
-&lt;li&gt;Das Pad zur Planung ist zu finden unter &lt;a href="https://pads.ccc.de/pystada-2014-05-07"&gt;https://pads.ccc.de/pystada-2014-05-07&lt;/a&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Adresse:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Trollhöhle des Chaos-Darmstadt
+&lt;p&gt;Ne­ben Un­i­co­de in Py­thon 3 und den Top 10 Feh­lern beim Pro­gram­mie­ren in Py­thon,
+­gibt es auch einen Über­blick über  &lt;a href="http://getnikola.com"&gt;Ni­ko­la&lt;/a&gt;  und wie da­mit sta­ti­sche Web­sei­ten
+er­zeugt wer­den und an­schlie­ßend via Github Pa­ges un­ter ei­ner ei­ge­nen Do­main
+­aus­ge­lie­fert wer­den kön­nen.&lt;/p&gt; 
+ &lt;p&gt;Das ist be­son­ders in­ter­essant für al­le, die oh­ne­hin mit Github ar­bei­ten oder
+Pro­jek­te be­treu­en, die ger­ne ei­ne ei­ge­ne Web­sei­te ha­ben möch­ten, aber die
+Pfle­ge ei­nes CMS + Da­ten­bank und Webser­ver scheu­en.&lt;/p&gt;</description><guid>http://pyugrm.de/posts/python-stammtisch-darmstadt-trifft-sich-wieder-2/</guid><pubDate>Wed, 21 May 2014 06:18:49 GMT</pubDate></item><item><title>PyUGRM Treffen im Mai 2014</title><link>http://pyugrm.de/posts/pyugrm-treffen-im-mai-2014/</link><dc:creator>PyUGRM Orga Team</dc:creator><description>&lt;p&gt;Es ist bald wie­der so­weit, ein neu­er PyU­GRM steht an!&lt;br&gt; 
+Am 15. Mai um 19:30 Uhr geht es los.&lt;br&gt; 
+Al­le De­tails in­kl.  &lt;a href="http://pyugrm.de/stories/termine-der-python-user-group-rhein-main/#mai-2014"&gt;Adres­se und An­fahrt­be­schrei­bung&lt;/a&gt;  fin­det ihr un­ter  &lt;a href="http://pyugrm.de/stories/termine-der-python-user-group-rhein-main/"&gt;Ter­mi­ne&lt;/a&gt;.&lt;/p&gt;</description><guid>http://pyugrm.de/posts/pyugrm-treffen-im-mai-2014/</guid><pubDate>Tue, 13 May 2014 19:18:49 GMT</pubDate></item><item><title>Python Stammtisch Darmstadt trifft sich wieder</title><link>http://pyugrm.de/posts/python-stammtisch-darmstadt-trifft-sich-wieder-1/</link><dc:creator>PyUGRM Orga Team</dc:creator><description>&lt;p&gt;Am 7. Mai um 19:30 Uhr geht es los.&lt;/p&gt; 
+ &lt;ul&gt;
+&lt;li&gt;Al­le In­fos gibt es hier:  &lt;a href="http://pystada.github.io/"&gt;htt­p://­py­sta­da.­github.io/&lt;/a&gt;    &lt;/li&gt; 
+ &lt;li&gt;Das Pad zur Pla­nung ist zu fin­den un­ter  &lt;a href="https://pads.ccc.de/pystada-2014-05-07"&gt;htt­ps://­pads.c­c­c.­de/­py­sta­da-2014-05-07&lt;/a&gt;    &lt;/li&gt; 
+ &lt;/ul&gt;
+&lt;p&gt;Adres­se:&lt;/p&gt; 
+ &lt;pre&gt;&lt;code&gt;Trollhöhle des Chaos-Darmstadt
 Wilhelm-Leuschner-Straße 36 (im Hinterhof)
 64293 Darmstadt
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Viel Spass!&lt;/p&gt;</description><guid>http://pyugrm.de/posts/python-stammtisch-darmstadt-trifft-sich-wieder-1/</guid><pubDate>Mon, 05 May 2014 08:18:49 GMT</pubDate></item><item><title>pyugrm.de ist live</title><link>http://pyugrm.de/posts/pyugrmde-ist-live/</link><dc:creator>PyUGRM Orga Team</dc:creator><description>&lt;p&gt;Durch die technischen Probleme mit dem Wiki des Python-Forums (mehr dazu &lt;a href="http://www.python-forum.de/viewtopic.php?f=10&amp;amp;t=33382"&gt;hier&lt;/a&gt;),&lt;br&gt;
-sahen wir uns gezwungen zeitnah einen Ersatz zu schaffen, der uns nicht einfach&lt;br&gt;
-so abhanden kommen kann ;-)&lt;/p&gt;
-&lt;p&gt;Wir haben deshalb die Domain &lt;code&gt;pyugrm.de&lt;/code&gt; registriert und ein&lt;br&gt;
-&lt;a href="http://getnikola.com/"&gt;Nikola-Blog&lt;/a&gt; aufgesetzt, das wir über &lt;a href="http://github.com/PyUGRM/"&gt;Github&lt;/a&gt; managen können.&lt;/p&gt;</description><guid>http://pyugrm.de/posts/pyugrmde-ist-live/</guid><pubDate>Thu, 01 May 2014 19:02:43 GMT</pubDate></item><item><title>Das war das 12. Treffen der PyUGRM</title><link>http://pyugrm.de/posts/das-war-das-12-treffen-der-pyugrm/</link><dc:creator>PyUGRM Orga Team</dc:creator><description>&lt;p&gt;Das zwölfte Treffen der PyUGRM fand diesmal in Darmstadt statt. Wir waren zu&lt;br&gt;
-Gast bei der CoSee GmbH.  Vielen Dank an Patrick (&lt;a href="https://twitter.com/wonderb0lt"&gt;@wonderb0lt&lt;/a&gt;) für die lokale&lt;br&gt;
-Orga und die tollen Wegweiser an den Türen und im Treppenhaus :-)  &lt;/p&gt;
-&lt;p&gt;Die gemeinsamen Notizen gibt es wie immer im zugehörigen &lt;a href="https://piratenpad.de/p/PyUGRM12"&gt;Pad&lt;/a&gt;.&lt;/p&gt;</description><guid>http://pyugrm.de/posts/das-war-das-12-treffen-der-pyugrm/</guid><pubDate>Fri, 25 Apr 2014 22:03:46 GMT</pubDate></item></channel></rss>
+&lt;p&gt;Viel Spass!&lt;/p&gt;</description><guid>http://pyugrm.de/posts/python-stammtisch-darmstadt-trifft-sich-wieder-1/</guid><pubDate>Mon, 05 May 2014 08:18:49 GMT</pubDate></item><item><title>pyugrm.de ist live</title><link>http://pyugrm.de/posts/pyugrmde-ist-live/</link><dc:creator>PyUGRM Orga Team</dc:creator><description>&lt;p&gt;Durch die tech­ni­schen Pro­ble­me mit dem Wi­ki des Py­thon-­Fo­rums (mehr da­zu  &lt;a href="http://www.python-forum.de/viewtopic.php?f=10&amp;amp;t=33382"&gt;hier&lt;/a&gt;),&lt;br&gt; 
+sa­hen wir uns ge­zwun­gen zeit­nah einen Er­satz zu schaf­fen, der uns nicht ein­fach&lt;br&gt; 
+so ab­han­den kom­men kann ;-)&lt;/p&gt; 
+ &lt;p&gt;Wir ha­ben des­halb die Do­main  &lt;code&gt;pyu­grm.­de&lt;/code&gt;  re­gis­triert und ein&lt;br&gt; 
+ &lt;a href="http://getnikola.com/"&gt;Ni­ko­la-Blog&lt;/a&gt;  auf­ge­setz­t, das wir über  &lt;a href="http://github.com/PyUGRM/"&gt;Github&lt;/a&gt;  ma­na­gen kön­nen.&lt;/p&gt;</description><guid>http://pyugrm.de/posts/pyugrmde-ist-live/</guid><pubDate>Thu, 01 May 2014 19:02:43 GMT</pubDate></item><item><title>Das war das 12. Treffen der PyUGRM</title><link>http://pyugrm.de/posts/das-war-das-12-treffen-der-pyugrm/</link><dc:creator>PyUGRM Orga Team</dc:creator><description>&lt;p&gt;Das zwölf­te Tref­fen der PyU­GRM fand dies­mal in Darm­stadt stat­t. Wir wa­ren zu&lt;br&gt; 
+Gast bei der Co­See Gmb­H.  Vie­len Dank an Pa­trick (&lt;a href="https://twitter.com/wonderb0lt"&gt;@won­der­b0lt&lt;/a&gt;) für die lo­ka­le&lt;br&gt; 
+Or­ga und die tol­len Weg­wei­ser an den Tü­ren und im Trep­pen­haus :-)   &lt;/p&gt; 
+ &lt;p&gt;Die ge­mein­sa­men No­ti­zen gibt es wie im­mer im zu­ge­hö­ri­gen  &lt;a href="https://piratenpad.de/p/PyUGRM12"&gt;Pad&lt;/a&gt;.&lt;/p&gt;</description><guid>http://pyugrm.de/posts/das-war-das-12-treffen-der-pyugrm/</guid><pubDate>Fri, 25 Apr 2014 22:03:46 GMT</pubDate></item></channel></rss>
