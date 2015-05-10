@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Python UG Rhein-Main</title><link>http://pyugrm.de/</link><description>Die Webseite der Python UserGroup Rhein-Main</description><atom:link href="http://pyugrm.de/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>de</language><lastBuildDate>Sun, 10 May 2015 14:18:21 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>PyUG Frankfurt Treffen im Mai 2015</title><link>http://pyugrm.de/posts/pyug-frankfurt-treffen-im-mai-2015/</link><dc:creator>PyUGRM Orga Team</dc:creator><description>&lt;div&gt;&lt;p&gt;Es gibt ein neu­es Py­thon User Group Tref­fen im Her­zen Hes­sens! Am 12. Mai 2015
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Python UG Rhein-Main</title><link>http://pyugrm.de/</link><description>Die Webseite der Python UserGroup Rhein-Main</description><atom:link href="http://pyugrm.de/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>de</language><lastBuildDate>Sun, 10 May 2015 14:48:52 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>PyUGRM Treffen im Mai 2015</title><link>http://pyugrm.de/posts/pyugrm-treffen-im-mai-2015/</link><dc:creator>PyUGRM Orga Team</dc:creator><description>&lt;div&gt;&lt;p&gt;Bald ist es wie­der so­weit, ein neu­es Tref­fen der PyU­GRM steht an!&lt;/p&gt; 
+ &lt;p&gt;Am 27. Mai um 19:30 Uhr geht es los!&lt;br&gt; 
+Al­le De­tails in­kl.  &lt;a href="http://pyugrm.de/stories/termine-der-python-user-group-rhein-main/#mai-2015"&gt;Adres­se und An­fahrt­be­schrei­bung&lt;/a&gt;  
+fin­det ihr - wie im­mer - un­ter  &lt;a href="http://pyugrm.de/stories/termine-der-python-user-group-rhein-main/"&gt;Ter­mi­ne&lt;/a&gt;.&lt;/p&gt; 
+ &lt;p&gt;Dies­mal sind wir zu Gast bei der  &lt;a href="http://uib.de"&gt;uib gmbh&lt;/a&gt;  in Mainz.  &lt;/p&gt; 
+ &lt;p&gt;--&lt;br&gt; 
+S­te­fan&lt;/p&gt;&lt;/div&gt;</description><guid>http://pyugrm.de/posts/pyugrm-treffen-im-mai-2015/</guid><pubDate>Sun, 10 May 2015 08:00:00 GMT</pubDate></item><item><title>PyUG Frankfurt Treffen im Mai 2015</title><link>http://pyugrm.de/posts/pyug-frankfurt-treffen-im-mai-2015/</link><dc:creator>PyUGRM Orga Team</dc:creator><description>&lt;div&gt;&lt;p&gt;Es gibt ein neu­es Py­thon User Group Tref­fen im Her­zen Hes­sens! Am 12. Mai 2015
 trifft sich die Py­thon User Group Frank­furt das ers­te mal. Die Tref­fen wer­den
 ­mo­nat­lich in den Räu­men des  &lt;a href="http://ccc-ffm.de/"&gt;CC­C-FFM&lt;/a&gt;  im Frank­fur­ter Stadt­teil
 ­Bo­cken­heim statt­fin­den. Die Lo­ca­ti­on ist mit der U-­Bahn nur we­ni­ge Sta­tio­nen
@@ -65,8 +71,4 @@ Al­le De­tails in­kl.  &lt;a href="http://pyugrm.de/stories/termine-der-pytho
 Wilhelm-Leuschner-Straße 36 (im Hinterhof)
 64293 Darmstadt
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Viel Spass!&lt;/p&gt;&lt;/div&gt;</description><guid>http://pyugrm.de/posts/python-stammtisch-darmstadt-trifft-sich-wieder-1/</guid><pubDate>Mon, 05 May 2014 08:18:49 GMT</pubDate></item><item><title>pyugrm.de ist live</title><link>http://pyugrm.de/posts/pyugrmde-ist-live/</link><dc:creator>PyUGRM Orga Team</dc:creator><description>&lt;div&gt;&lt;p&gt;Durch die tech­ni­schen Pro­ble­me mit dem Wi­ki des Py­thon-­Fo­rums (mehr da­zu  &lt;a href="http://www.python-forum.de/viewtopic.php?f=10&amp;amp;t=33382"&gt;hier&lt;/a&gt;),&lt;br&gt; 
-sa­hen wir uns ge­zwun­gen zeit­nah einen Er­satz zu schaf­fen, der uns nicht ein­fach&lt;br&gt; 
-so ab­han­den kom­men kann ;-)&lt;/p&gt; 
- &lt;p&gt;Wir ha­ben des­halb die Do­main  &lt;code&gt;pyu­grm.­de&lt;/code&gt;  re­gis­triert und ein&lt;br&gt; 
- &lt;a href="http://getnikola.com/"&gt;Ni­ko­la-Blog&lt;/a&gt;  auf­ge­setz­t, das wir über  &lt;a href="http://github.com/PyUGRM/"&gt;Github&lt;/a&gt;  ma­na­gen kön­nen.&lt;/p&gt;&lt;/div&gt;</description><guid>http://pyugrm.de/posts/pyugrmde-ist-live/</guid><pubDate>Thu, 01 May 2014 19:02:43 GMT</pubDate></item></channel></rss>
+&lt;p&gt;Viel Spass!&lt;/p&gt;&lt;/div&gt;</description><guid>http://pyugrm.de/posts/python-stammtisch-darmstadt-trifft-sich-wieder-1/</guid><pubDate>Mon, 05 May 2014 08:18:49 GMT</pubDate></item></channel></rss>
