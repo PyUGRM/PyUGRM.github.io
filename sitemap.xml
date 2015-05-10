@@ -6,82 +6,118 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://pyugrm.de/</loc>
-  <lastmod>2014-05-21</lastmod>
+  <lastmod>2015-05-10</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/2014/</loc>
-  <lastmod>2014-05-21</lastmod>
+  <lastmod>2015-05-10</lastmod>
+ </url>
+ <url>
+  <loc>http://pyugrm.de/2015/</loc>
+  <lastmod>2015-05-10</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/archive.html</loc>
-  <lastmod>2014-05-21</lastmod>
+  <lastmod>2015-05-10</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/categories/</loc>
-  <lastmod>2014-05-21</lastmod>
+  <lastmod>2015-05-10</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/galleries/</loc>
-  <lastmod>2014-05-21</lastmod>
+  <lastmod>2015-05-10</lastmod>
+ </url>
+ <url>
+  <loc>http://pyugrm.de/index-1.html</loc>
+  <lastmod>2015-05-10</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/listings/</loc>
-  <lastmod>2014-05-21</lastmod>
+  <lastmod>2015-05-10</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/posts/das-war-das-12-treffen-der-pyugrm/</loc>
-  <lastmod>2014-05-21</lastmod>
+  <lastmod>2015-05-10</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/posts/nachstes-treffen-des-python-stammtisch-darmstadt/</loc>
-  <lastmod>2014-05-05</lastmod>
+  <lastmod>2015-03-26</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/posts/nachstes-treffen-python-stammtisch-darmstadt/</loc>
-  <lastmod>2014-05-05</lastmod>
+  <lastmod>2015-03-26</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/posts/python-stammtisch-darmstadt-trifft-sich-wieder-1/</loc>
-  <lastmod>2014-05-21</lastmod>
+  <lastmod>2015-05-10</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/posts/python-stammtisch-darmstadt-trifft-sich-wieder-2/</loc>
-  <lastmod>2014-05-21</lastmod>
+  <lastmod>2015-05-10</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/posts/python-stammtisch-darmstadt-trifft-sich-wieder/</loc>
-  <lastmod>2014-05-05</lastmod>
+  <lastmod>2015-03-26</lastmod>
+ </url>
+ <url>
+  <loc>http://pyugrm.de/posts/pyug-frankfurt-treffen-im-mai-2015/</loc>
+  <lastmod>2015-05-10</lastmod>
+ </url>
+ <url>
+  <loc>http://pyugrm.de/posts/pyugrm-treffen-im-januar-2015/</loc>
+  <lastmod>2015-05-10</lastmod>
+ </url>
+ <url>
+  <loc>http://pyugrm.de/posts/pyugrm-treffen-im-juli-2014/</loc>
+  <lastmod>2015-05-10</lastmod>
+ </url>
+ <url>
+  <loc>http://pyugrm.de/posts/pyugrm-treffen-im-maerz-2015/</loc>
+  <lastmod>2015-05-10</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/posts/pyugrm-treffen-im-mai-2014/</loc>
-  <lastmod>2014-05-21</lastmod>
+  <lastmod>2015-05-10</lastmod>
+ </url>
+ <url>
+  <loc>http://pyugrm.de/posts/pyugrm-treffen-im-november-2014/</loc>
+  <lastmod>2015-05-10</lastmod>
+ </url>
+ <url>
+  <loc>http://pyugrm.de/posts/pyugrm-treffen-im-september-2014/</loc>
+  <lastmod>2015-05-10</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/posts/pyugrmde-ist-live/</loc>
-  <lastmod>2014-05-21</lastmod>
+  <lastmod>2015-05-10</lastmod>
+ </url>
+ <url>
+  <loc>http://pyugrm.de/stories/archiv-der-python-user-group-rhein-main/</loc>
+  <lastmod>2015-05-10</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/stories/impressum/</loc>
-  <lastmod>2014-05-21</lastmod>
+  <lastmod>2015-05-10</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/stories/infos-zur-python-community-in-rhein-main/</loc>
-  <lastmod>2014-05-21</lastmod>
+  <lastmod>2015-05-10</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/stories/kommunikation/</loc>
-  <lastmod>2014-05-21</lastmod>
+  <lastmod>2015-05-10</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/stories/links-rund-um-python-programmierung/</loc>
-  <lastmod>2014-05-21</lastmod>
+  <lastmod>2015-05-10</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/stories/termine-der-python-user-group-rhein-main/</loc>
-  <lastmod>2014-05-21</lastmod>
+  <lastmod>2015-05-10</lastmod>
  </url>
  <url>
   <loc>http://pyugrm.de/stories/uber-die-python-usergroup-rhein-main-pyugrm/</loc>
-  <lastmod>2014-05-21</lastmod>
+  <lastmod>2015-05-10</lastmod>
  </url>
 </urlset>

@@ -28,11 +28,12 @@
     <meta name="description" itemprop="description" content="Links zu Freunden und Bekannten der Python UserGroup Rhein-Main">
     <meta name="author" content="PyUGRM Orga Team">
     
-    <meta name="og:title" content="Community">
-    <meta name="og:url" content="http://pyugrm.de/stories/infos-zur-python-community-in-rhein-main/">
-    <meta name="og:description" content="Links zu Freunden und Bekannten der Python UserGroup Rhein-Main">
-    <meta name="og:site_name" content="Python UG Rhein-Main">
-    <meta name="og:type" content="article">
+    <meta property="og:site_name" content="Python UG Rhein-Main">
+    <meta property="og:title" content="Community">
+    <meta property="og:url" content="http://pyugrm.de/stories/infos-zur-python-community-in-rhein-main/">
+    <meta property="og:description" content="Links zu Freunden und Bekannten der Python UserGroup Rhein-Main">
+    <meta property="og:type" content="article">
+    <meta property="article:published_time" content="2014-04-27T00:25:52+02:00">
 
     
 
@@ -42,11 +43,11 @@
 
 </head>
 <body>
-<a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
+<a href="#content" class="sr-only sr-only-focusable">Springe zum Hauptinhalt</a>
 
 <!-- Menubar -->
 
-<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+<nav class="navbar navbar-inverse navbar-static-top" role="navigation">
     <div class="container">
 <!-- This keeps the margins nice -->
         <div class="navbar-header">
@@ -109,7 +110,7 @@
 
 <!-- End of Menubar -->
 
-<div class="container" id="content">
+<div class="container" id="content" role="main">
     <div class="body-content">
         <!--Body content-->
         <div class="row">
@@ -150,6 +151,7 @@ sich mit Py­thon be­schäf­ti­gen.</p>
   <li>
 <a href=".#regelmaige-treffs-in-rhein-main">Re­­gel­mä­­ßi­­ge Treffs in Rhein-­­Main</a><ul>  
   <li><a href=".#der-python-stammtisch-darmstadt-pystada">Der Py­thon Stam­m­tisch Dar­m­­­stadt (Py­­­Sta­Da)</a></li>   
+   <li><a href=".#die-python-user-group-frankfurt">Die Py­thon User Group Frank­­­furt</a></li>   
    <li><a href=".#rhein-main-rocks">Rhein-­­­Main Rocks</a></li>   
    </ul>  
   </li>  
@@ -225,6 +227,10 @@ Eschersheimer Landstrasse 526 – 532
 sich im Zwei-Wo­chen-­Rhyth­mus trifft um sich über Pro­jek­te und Ide­en<br> 
 aus­zut­au­schen. Au­ßer­dem gibt es Vor­trä­ge rund um Py­thon-Pro­jek­te und<br> 
 Soft­wa­re En­gi­nee­ring.</p> 
+ <h4 id="die-python-user-group-frankfurt">Die Python User Group Frankfurt</h4>
+<p>Im  <a href="http://ccc-ffm.de/hackerspace/">Hacker­space des Cha­os Com­pu­ter Club Frank­furt am Main</a>  gibt es ein<br> 
+mo­nat­li­ches Py­thon User Group Tref­fen. Die An­kün­di­gung für das ers­te Tref­fen<br> 
+vom 12. Mai 2015 und al­le De­tails fin­det ihr  <a href="http://ccc-ffm.de/2015/04/monatlicher-python-user-group-treff-im-hackquarter/">hier</a>.</p> 
  <h4 id="rhein-main-rocks">Rhein-Main Rocks</h4>
 <p>Auf  <a href="http://www.rheinmainrocks.de">htt­p://ww­w.rhein­main­rocks.­de</a>  gibt es un­ter  <a href="http://usergroups.rheinmainrocks.de">htt­p://u­ser­groups.rhein­main­rocks.­de</a>  ei­ne<br> 
 Über­sicht über vie­le ver­schie­de­ne UGs im Rhein-­Main Ge­biet. Die­ses Ver­zeich­nis<br> 
@@ -250,7 +256,13 @@ wird über  <a href="https://github.com/coderbyheart/ugrm-data">die­se Github-�
         <script src="../../assets/js/colorbox-i18n/jquery.colorbox-de.js"></script>
     
 
-    <script>jQuery("a.image-reference").colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script>
+    <script>$('a.image-reference:not(.islink) img:not(.islink)').parent().colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script>
+    <!-- fancy dates -->
+    <script>
+    moment.locale("de");
+    fancydates(0, "YYYY-MM-DD HH:mm");
+    </script>
+    <!-- end fancy dates -->
     
 
 
